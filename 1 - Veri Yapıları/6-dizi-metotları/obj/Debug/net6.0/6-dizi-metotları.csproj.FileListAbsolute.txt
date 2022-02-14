@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\6-dizi-metotları.exe
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\6-dizi-metotları.deps.json
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\6-dizi-metotları.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\6-dizi-metotları.dll
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\ref\6-dizi-metotları.dll
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\bin\Debug\net6.0\6-dizi-metotları.pdb
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.dll
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\ref\6-dizi-metotları.dll
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.pdb
+A:\HTML 2\website\.Net Core - C#\6-dizi-metotları\obj\Debug\net6.0\6-dizi-metotları.genruntimeconfig.cache

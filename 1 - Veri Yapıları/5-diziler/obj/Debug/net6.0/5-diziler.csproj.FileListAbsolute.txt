@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\5-diziler.exe
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\5-diziler.deps.json
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\5-diziler.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\5-diziler.dll
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\ref\5-diziler.dll
+A:\HTML 2\website\.Net Core - C#\5-diziler\bin\Debug\net6.0\5-diziler.pdb
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.dll
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\ref\5-diziler.dll
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.pdb
+A:\HTML 2\website\.Net Core - C#\5-diziler\obj\Debug\net6.0\5-diziler.genruntimeconfig.cache

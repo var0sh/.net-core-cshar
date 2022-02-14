@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\7-datetime-objesi.exe
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\7-datetime-objesi.deps.json
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\7-datetime-objesi.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\7-datetime-objesi.dll
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\ref\7-datetime-objesi.dll
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\bin\Debug\net6.0\7-datetime-objesi.pdb
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.dll
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\ref\7-datetime-objesi.dll
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.pdb
+A:\HTML 2\website\.Net Core - C#\7-datetime-objesi\obj\Debug\net6.0\7-datetime-objesi.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\4-string-metotlari.exe
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\4-string-metotlari.deps.json
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\4-string-metotlari.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\4-string-metotlari.dll
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\ref\4-string-metotlari.dll
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\bin\Debug\net6.0\4-string-metotlari.pdb
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.dll
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\ref\4-string-metotlari.dll
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.pdb
+A:\HTML 2\website\.Net Core - C#\4-string-metotlari\obj\Debug\net6.0\4-string-metotlari.genruntimeconfig.cache

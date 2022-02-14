@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uygulama-asal-sayi/1.0.0": {
+        "runtime": {
+          "uygulama-asal-sayi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uygulama-asal-sayi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

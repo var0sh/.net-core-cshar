@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\uygulama-for-dongusu.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\uygulama-for-dongusu.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\uygulama-for-dongusu.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\uygulama-for-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\ref\uygulama-for-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\bin\Debug\net6.0\uygulama-for-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\ref\uygulama-for-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-for-dongusu\obj\Debug\net6.0\uygulama-for-dongusu.genruntimeconfig.cache

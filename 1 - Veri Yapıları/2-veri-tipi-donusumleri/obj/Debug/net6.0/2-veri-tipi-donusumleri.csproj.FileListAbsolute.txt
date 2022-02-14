@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\2-veri-tipi-donusumleri.exe
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\2-veri-tipi-donusumleri.deps.json
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\2-veri-tipi-donusumleri.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\2-veri-tipi-donusumleri.dll
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\ref\2-veri-tipi-donusumleri.dll
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\bin\Debug\net6.0\2-veri-tipi-donusumleri.pdb
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.dll
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\ref\2-veri-tipi-donusumleri.dll
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.pdb
+A:\HTML 2\website\.Net Core - C#\2-veri-tipi-donusumleri\obj\Debug\net6.0\2-veri-tipi-donusumleri.genruntimeconfig.cache

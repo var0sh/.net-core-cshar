@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\13-while-dongusu.exe
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\13-while-dongusu.deps.json
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\13-while-dongusu.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\13-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\ref\13-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\bin\Debug\net6.0\13-while-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\ref\13-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\13-while-dongusu\obj\Debug\net6.0\13-while-dongusu.genruntimeconfig.cache

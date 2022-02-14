@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\3-metot-parametreleri.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\3-metot-parametreleri.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\3-metot-parametreleri.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\3-metot-parametreleri.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\ref\3-metot-parametreleri.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\bin\Debug\net6.0\3-metot-parametreleri.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\ref\3-metot-parametreleri.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\3-metot-parametreleri\obj\Debug\net6.0\3-metot-parametreleri.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\uygulama-sayi-tahmin-oyunu.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\uygulama-sayi-tahmin-oyunu.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\uygulama-sayi-tahmin-oyunu.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\uygulama-sayi-tahmin-oyunu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\ref\uygulama-sayi-tahmin-oyunu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\bin\Debug\net6.0\uygulama-sayi-tahmin-oyunu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\ref\uygulama-sayi-tahmin-oyunu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-sayi-tahmin-oyunu\obj\Debug\net6.0\uygulama-sayi-tahmin-oyunu.genruntimeconfig.cache

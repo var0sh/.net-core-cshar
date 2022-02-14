@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\uygulama-if-else-elseif.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\uygulama-if-else-elseif.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\uygulama-if-else-elseif.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\uygulama-if-else-elseif.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\ref\uygulama-if-else-elseif.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\bin\Debug\net6.0\uygulama-if-else-elseif.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\ref\uygulama-if-else-elseif.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-if-else-elseif\obj\Debug\net6.0\uygulama-if-else-elseif.genruntimeconfig.cache

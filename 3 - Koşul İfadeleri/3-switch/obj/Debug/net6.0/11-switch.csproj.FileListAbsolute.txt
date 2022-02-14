@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\11-switch.exe
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\11-switch.deps.json
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\11-switch.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\11-switch.dll
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\ref\11-switch.dll
+A:\HTML 2\website\.Net Core - C#\11-switch\bin\Debug\net6.0\11-switch.pdb
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.dll
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\ref\11-switch.dll
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.pdb
+A:\HTML 2\website\.Net Core - C#\11-switch\obj\Debug\net6.0\11-switch.genruntimeconfig.cache

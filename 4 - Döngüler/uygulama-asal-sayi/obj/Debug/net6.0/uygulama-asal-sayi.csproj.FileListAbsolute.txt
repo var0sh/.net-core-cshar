@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\uygulama-asal-sayi.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\uygulama-asal-sayi.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\uygulama-asal-sayi.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\uygulama-asal-sayi.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\ref\uygulama-asal-sayi.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\bin\Debug\net6.0\uygulama-asal-sayi.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\ref\uygulama-asal-sayi.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-asal-sayi\obj\Debug\net6.0\uygulama-asal-sayi.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\uygulama-bankamatik.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\uygulama-bankamatik.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\uygulama-bankamatik.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\uygulama-bankamatik.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\ref\uygulama-bankamatik.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\bin\Debug\net6.0\uygulama-bankamatik.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\ref\uygulama-bankamatik.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-bankamatik\obj\Debug\net6.0\uygulama-bankamatik.genruntimeconfig.cache

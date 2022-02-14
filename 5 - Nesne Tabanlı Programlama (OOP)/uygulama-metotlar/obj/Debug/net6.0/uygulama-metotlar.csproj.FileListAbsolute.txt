@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\uygulama-metotlar.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\uygulama-metotlar.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\uygulama-metotlar.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\uygulama-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\ref\uygulama-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\bin\Debug\net6.0\uygulama-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\ref\uygulama-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-metotlar\obj\Debug\net6.0\uygulama-metotlar.genruntimeconfig.cache

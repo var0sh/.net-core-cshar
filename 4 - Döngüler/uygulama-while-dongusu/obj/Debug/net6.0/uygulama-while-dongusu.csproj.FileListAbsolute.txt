@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\uygulama-while-dongusu.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\uygulama-while-dongusu.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\uygulama-while-dongusu.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\uygulama-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\ref\uygulama-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\bin\Debug\net6.0\uygulama-while-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\ref\uygulama-while-dongusu.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-while-dongusu\obj\Debug\net6.0\uygulama-while-dongusu.genruntimeconfig.cache

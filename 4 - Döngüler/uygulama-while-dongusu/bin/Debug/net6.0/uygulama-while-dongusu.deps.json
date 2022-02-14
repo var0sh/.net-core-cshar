@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uygulama-while-dongusu/1.0.0": {
+        "runtime": {
+          "uygulama-while-dongusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uygulama-while-dongusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

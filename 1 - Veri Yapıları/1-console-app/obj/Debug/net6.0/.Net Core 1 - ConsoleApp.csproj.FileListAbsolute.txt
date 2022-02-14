@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\.Net Core 1 - ConsoleApp.exe
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\.Net Core 1 - ConsoleApp.deps.json
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\.Net Core 1 - ConsoleApp.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\.Net Core 1 - ConsoleApp.dll
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\ref\.Net Core 1 - ConsoleApp.dll
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\bin\Debug\net6.0\.Net Core 1 - ConsoleApp.pdb
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.dll
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\ref\.Net Core 1 - ConsoleApp.dll
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.pdb
+A:\HTML 2\website\.Net Core - C#\.Net Core 1 - ConsoleApp\obj\Debug\net6.0\.Net Core 1 - ConsoleApp.genruntimeconfig.cache

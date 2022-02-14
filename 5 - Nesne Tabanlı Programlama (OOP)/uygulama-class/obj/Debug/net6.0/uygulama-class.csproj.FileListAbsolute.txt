@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\uygulama-class.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\uygulama-class.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\uygulama-class.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\uygulama-class.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\ref\uygulama-class.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\bin\Debug\net6.0\uygulama-class.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\ref\uygulama-class.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-class\obj\Debug\net6.0\uygulama-class.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\5-yapici-metotlar.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\5-yapici-metotlar.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\5-yapici-metotlar.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\5-yapici-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\ref\5-yapici-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\bin\Debug\net6.0\5-yapici-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\ref\5-yapici-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\5-yapici-metotlar\obj\Debug\net6.0\5-yapici-metotlar.genruntimeconfig.cache

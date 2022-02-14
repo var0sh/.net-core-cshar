@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\4-asiri-yuklenmis-metotlar.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\4-asiri-yuklenmis-metotlar.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\4-asiri-yuklenmis-metotlar.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\4-asiri-yuklenmis-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\ref\4-asiri-yuklenmis-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\bin\Debug\net6.0\4-asiri-yuklenmis-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\ref\4-asiri-yuklenmis-metotlar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\4-asiri-yuklenmis-metotlar\obj\Debug\net6.0\4-asiri-yuklenmis-metotlar.genruntimeconfig.cache

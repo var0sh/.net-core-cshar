@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\8-operatorler.exe
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\8-operatorler.deps.json
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\8-operatorler.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\8-operatorler.dll
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\ref\8-operatorler.dll
+A:\HTML 2\website\.Net Core - C#\8-operatorler\bin\Debug\net6.0\8-operatorler.pdb
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.dll
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\ref\8-operatorler.dll
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.pdb
+A:\HTML 2\website\.Net Core - C#\8-operatorler\obj\Debug\net6.0\8-operatorler.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\14-break-continue.exe
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\14-break-continue.deps.json
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\14-break-continue.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\14-break-continue.dll
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\ref\14-break-continue.dll
+A:\HTML 2\website\.Net Core - C#\14-break-continue\bin\Debug\net6.0\14-break-continue.pdb
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.dll
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\ref\14-break-continue.dll
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.pdb
+A:\HTML 2\website\.Net Core - C#\14-break-continue\obj\Debug\net6.0\14-break-continue.genruntimeconfig.cache

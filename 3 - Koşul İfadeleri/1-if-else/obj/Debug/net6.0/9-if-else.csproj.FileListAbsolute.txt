@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\9-if-else.exe
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\9-if-else.deps.json
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\9-if-else.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\9-if-else.dll
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\ref\9-if-else.dll
+A:\HTML 2\website\.Net Core - C#\9-if-else\bin\Debug\net6.0\9-if-else.pdb
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.dll
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\ref\9-if-else.dll
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.pdb
+A:\HTML 2\website\.Net Core - C#\9-if-else\obj\Debug\net6.0\9-if-else.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\uygulama-operatorler-1.exe
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\uygulama-operatorler-1.deps.json
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\uygulama-operatorler-1.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\uygulama-operatorler-1.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\ref\uygulama-operatorler-1.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\bin\Debug\net6.0\uygulama-operatorler-1.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\ref\uygulama-operatorler-1.dll
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.pdb
+A:\HTML 2\website\.Net Core - C#\uygulama-operatorler-1\obj\Debug\net6.0\uygulama-operatorler-1.genruntimeconfig.cache
