@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\uygulama-quiz-uygulamasi.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\uygulama-quiz-uygulamasi.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\uygulama-quiz-uygulamasi.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\uygulama-quiz-uygulamasi.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\ref\uygulama-quiz-uygulamasi.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\bin\Debug\net6.0\uygulama-quiz-uygulamasi.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\ref\uygulama-quiz-uygulamasi.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\uygulama-quiz-uygulamasi\obj\Debug\net6.0\uygulama-quiz-uygulamasi.genruntimeconfig.cache
