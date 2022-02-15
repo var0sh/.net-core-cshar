@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\7-static-members.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\7-static-members.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\7-static-members.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\7-static-members.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\ref\7-static-members.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\bin\Debug\net6.0\7-static-members.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\ref\7-static-members.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\7-static-members\obj\Debug\net6.0\7-static-members.genruntimeconfig.cache
