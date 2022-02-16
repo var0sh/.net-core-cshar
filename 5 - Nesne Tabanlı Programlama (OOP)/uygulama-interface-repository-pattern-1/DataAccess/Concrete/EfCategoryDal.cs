@@ -24,6 +24,11 @@ namespace uygulama_interface_repository_pattern_1.DataAccess.Concrete
             throw new NotImplementedException();
         }
 
+        public Category[] GetCategories()
+        {
+            throw new NotImplementedException();
+        }
+
         public void Update(Category entity)
         {
             throw new NotImplementedException();

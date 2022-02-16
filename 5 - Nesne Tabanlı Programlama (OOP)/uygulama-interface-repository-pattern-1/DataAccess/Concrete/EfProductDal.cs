@@ -8,9 +8,8 @@ using uygulama_interface_repository_pattern_1.Entity;
 namespace uygulama_interface_repository_pattern_1.DataAccess.Concrete
 {
     public class EfProductDal : IProductRepository {
-        public void Create(Product entity)
-        {
-            throw new NotImplementedException();
+        public void Create(Product entity) {
+            System.Console.WriteLine("EfProduct - Create");
         }
 
         public void Delete(int id)
@@ -19,6 +18,11 @@ namespace uygulama_interface_repository_pattern_1.DataAccess.Concrete
         }
 
         public Product GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product[] GetPopularProducts()
         {
             throw new NotImplementedException();
         }

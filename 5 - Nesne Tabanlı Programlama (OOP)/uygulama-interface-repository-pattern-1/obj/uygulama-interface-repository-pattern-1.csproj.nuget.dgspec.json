@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj": {}
+    "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj": {}
   },
   "projects": {
-    "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj": {
+    "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
+        "projectUniqueName": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
         "projectName": "uygulama-interface-repository-pattern-1",
-        "projectPath": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
+        "projectPath": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
         "packagesPath": "C:\\Users\\lenovo-pc\\.nuget\\packages\\",
-        "outputPath": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\obj\\",
+        "outputPath": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
