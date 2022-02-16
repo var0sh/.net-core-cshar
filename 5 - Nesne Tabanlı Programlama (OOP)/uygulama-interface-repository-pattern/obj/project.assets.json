@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
+      "projectUniqueName": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern\\uygulama-interface-repository-pattern-1.csproj",
       "projectName": "uygulama-interface-repository-pattern-1",
-      "projectPath": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\uygulama-interface-repository-pattern-1.csproj",
+      "projectPath": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern\\uygulama-interface-repository-pattern-1.csproj",
       "packagesPath": "C:\\Users\\lenovo-pc\\.nuget\\packages\\",
-      "outputPath": "A:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern-1\\obj\\",
+      "outputPath": "a:\\HTML 2\\website\\.Net Core - C#\\5 - Nesne Tabanlı Programlama (OOP)\\uygulama-interface-repository-pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
