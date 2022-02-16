@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\10-interface.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\10-interface.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\10-interface.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\10-interface.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\ref\10-interface.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\bin\Debug\net6.0\10-interface.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\ref\10-interface.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\10-interface\obj\Debug\net6.0\10-interface.genruntimeconfig.cache

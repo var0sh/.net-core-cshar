@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\9-abstract-siniflar.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\9-abstract-siniflar.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\9-abstract-siniflar.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\9-abstract-siniflar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\ref\9-abstract-siniflar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\bin\Debug\net6.0\9-abstract-siniflar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\ref\9-abstract-siniflar.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\9-abstract-siniflar\obj\Debug\net6.0\9-abstract-siniflar.genruntimeconfig.cache
