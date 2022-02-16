@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\8-kalitim.exe
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\8-kalitim.deps.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\8-kalitim.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\8-kalitim.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\ref\8-kalitim.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\bin\Debug\net6.0\8-kalitim.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\ref\8-kalitim.dll
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.pdb
+A:\HTML 2\website\.Net Core - C#\5 - Nesne Tabanlı Programlama (OOP)\8-kalitim\obj\Debug\net6.0\8-kalitim.genruntimeconfig.cache
