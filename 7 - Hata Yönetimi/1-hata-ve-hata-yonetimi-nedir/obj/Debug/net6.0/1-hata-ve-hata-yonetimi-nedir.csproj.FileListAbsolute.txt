@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.exe
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.deps.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\ref\1-hata-ve-hata-yonetimi-nedir.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\bin\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\ref\1-hata-ve-hata-yonetimi-nedir.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\1-hata-ve-hata-yonetimi-nedir\obj\Debug\net6.0\1-hata-ve-hata-yonetimi-nedir.genruntimeconfig.cache
