@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\4-custom-exception.exe
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\4-custom-exception.deps.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\4-custom-exception.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\4-custom-exception.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\ref\4-custom-exception.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\bin\Debug\net6.0\4-custom-exception.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\ref\4-custom-exception.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\4-custom-exception\obj\Debug\net6.0\4-custom-exception.genruntimeconfig.cache
