@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\2-array-list.exe
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\2-array-list.deps.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\2-array-list.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\2-array-list.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\ref\2-array-list.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\bin\Debug\net6.0\2-array-list.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\ref\2-array-list.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\2-array-list\obj\Debug\net6.0\2-array-list.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\3-generic-list-t.exe
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\3-generic-list-t.deps.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\3-generic-list-t.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\3-generic-list-t.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\ref\3-generic-list-t.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\bin\Debug\net6.0\3-generic-list-t.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\ref\3-generic-list-t.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\3-generic-list-t\obj\Debug\net6.0\3-generic-list-t.genruntimeconfig.cache

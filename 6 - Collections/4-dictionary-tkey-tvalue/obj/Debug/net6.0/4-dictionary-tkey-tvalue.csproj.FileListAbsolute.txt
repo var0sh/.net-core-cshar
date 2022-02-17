@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\4-dictionary-tkey-tvalue.exe
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\4-dictionary-tkey-tvalue.deps.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\4-dictionary-tkey-tvalue.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\4-dictionary-tkey-tvalue.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\ref\4-dictionary-tkey-tvalue.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\bin\Debug\net6.0\4-dictionary-tkey-tvalue.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\ref\4-dictionary-tkey-tvalue.dll
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.pdb
+A:\HTML 2\website\.Net Core - C#\6 - Collections\4-dictionary-tkey-tvalue\obj\Debug\net6.0\4-dictionary-tkey-tvalue.genruntimeconfig.cache
