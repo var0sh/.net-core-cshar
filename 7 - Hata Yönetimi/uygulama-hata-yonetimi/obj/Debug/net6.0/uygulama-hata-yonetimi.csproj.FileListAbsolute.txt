@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\uygulama-hata-yonetimi.exe
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\uygulama-hata-yonetimi.deps.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\uygulama-hata-yonetimi.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\uygulama-hata-yonetimi.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\ref\uygulama-hata-yonetimi.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\bin\Debug\net6.0\uygulama-hata-yonetimi.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\ref\uygulama-hata-yonetimi.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\uygulama-hata-yonetimi\obj\Debug\net6.0\uygulama-hata-yonetimi.genruntimeconfig.cache
