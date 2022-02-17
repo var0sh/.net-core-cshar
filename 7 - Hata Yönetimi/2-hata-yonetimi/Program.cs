@@ -1,9 +1,4 @@
-﻿// **Unhandled exception. System.FormatException
-// **Unhandled exception. System.DivideByZeroException
-// **Unhandled exception. System.IndexOutOfRangeException
-// **Unhandled exception. System.NullReferenceException
-
-try {
+﻿try {
     System.Console.Write("a: ");
     int a = int.Parse(Console.ReadLine());
     
