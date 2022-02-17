@@ -1,0 +1,15 @@
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\3-hata-firlatma.exe
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\3-hata-firlatma.deps.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\3-hata-firlatma.runtimeconfig.json
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\3-hata-firlatma.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\ref\3-hata-firlatma.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\bin\Debug\net6.0\3-hata-firlatma.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.csproj.AssemblyReference.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.GeneratedMSBuildEditorConfig.editorconfig
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.AssemblyInfoInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.AssemblyInfo.cs
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.csproj.CoreCompileInputs.cache
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\ref\3-hata-firlatma.dll
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.pdb
+A:\HTML 2\website\.Net Core - C#\7 - Hata Yönetimi\3-hata-firlatma\obj\Debug\net6.0\3-hata-firlatma.genruntimeconfig.cache
