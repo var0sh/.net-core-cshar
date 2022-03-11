@@ -28,8 +28,33 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
     }
         
     public class Program {
-       static void Main() {
-           
-       }
+        static void Main() {
+            AddProduct();
+        }
+
+        static void AddProducts() {
+            using (var db = new ShopContext()){
+                var products = new List<Product> {
+                    new Product {Name = "Samsung S5", Price = 2000},
+                    new Product {Name = "Samsung S6", Price = 3000},
+                    new Product {Name = "Samsung S7", Price = 4000},
+                    new Product {Name = "Samsung S8", Price = 5000}
+                };
+
+                db.Products.AddRange(products);
+                db.SaveChanges();
+
+                System.Console.WriteLine("veriler eklendi");
+            }
+        }
+        static void AddProduct() {
+            using (var db = new ShopContext()){
+                var product = new Product {Name = "Samsung 10", Price = 8000};
+                db.Products.Add(product);
+                db.SaveChanges();
+
+                System.Console.WriteLine("veriler eklendi");
+            }
+        }
     }
 }

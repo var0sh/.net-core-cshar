@@ -13,5 +13,6 @@
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.3"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3"/>
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.2-mauipre.1.22102.15"/>
   </ItemGroup>
 </Project>
