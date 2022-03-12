@@ -54,8 +54,3 @@ A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-sinifl
 A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
 A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
 A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
-A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\System.Text.Json.dll
-A:\HTML 2\website\.Net Core - C#\9 - ORM - Entity Framework Core\1-entity-siniflarinin-hazirlanmasi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

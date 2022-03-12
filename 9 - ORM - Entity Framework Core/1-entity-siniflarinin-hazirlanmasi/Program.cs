@@ -4,14 +4,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
 namespace _1_entity_siniflarinin_hazirlanmasi {
     public class ShopContext : DbContext {
-    public DbSet<Product> Products { get; set; }
-    public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-        optionsBuilder.UseSqlite("Data Source=shop.db");
+        public static readonly ILoggerFactory MyLoggerFactory = LoggerFactory.Create(builder => { builder.AddConsole(); });
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
+        optionsBuilder
+            .UseLoggerFactory(MyLoggerFactory)
+                .UseSqlite("Data Source=shop.db");
     }
 }
     public class Category {
@@ -29,7 +33,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         
     public class Program {
         static void Main() {
-            GetProductByName("Samsung");
+            UpdateProduct();
         }
 
         static void AddProducts() {
@@ -99,6 +103,41 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
                     System.Console.WriteLine($"name: {prd.Name}\nprice: {prd.Price}");
                 }
             }
+        }
+        static void UpdateProduct() {
+                // ** En Doğrusu Bu - Diğerlerinde Sadece PRİCE Alanını Güncellesek Bile Diğer Alanlarda Güncelleniyor
+            // using (var db = new ShopContext()) {
+            //     var entity = new Product() {Id = 2};
+            //     db.Products.Attach(entity);
+            //     entity.Price = 1200;
+            //     db.SaveChanges();
+            //     System.Console.WriteLine("güncelleme yapıldı");
+            // }
+
+            using (var db = new ShopContext()) {
+                var prd = db.Products.Where(prd => prd.Id == 2).FirstOrDefault();
+
+                if (prd != null) {
+                    prd.Price = 2000;
+                    db.Products.Update(prd);
+                    db.SaveChanges();
+                    System.Console.WriteLine("güncellendi");
+                }
+            }
+
+
+            // using (var db = new ShopContext()) {
+            //     var p = db.Products.AsNoTracking().Where(i => i.Id == 2).FirstOrDefault();
+
+            //     if (p != null) {
+            //         p.Price *= 1.2m;
+            //         db.SaveChanges();
+            //         System.Console.WriteLine("güncelleme yapıldı");
+            //     } else {
+            //         System.Console.WriteLine("güncelleme yapılamadı");
+            //     }
+
+            // }
         }
     }
 }
