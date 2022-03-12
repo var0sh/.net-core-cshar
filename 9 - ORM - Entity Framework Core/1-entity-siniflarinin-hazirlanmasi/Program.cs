@@ -29,7 +29,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         
     public class Program {
         static void Main() {
-            AddProduct();
+            GetProductByName("Samsung");
         }
 
         static void AddProducts() {
@@ -54,6 +54,50 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
                 db.SaveChanges();
 
                 System.Console.WriteLine("veriler eklendi");
+            }
+        }
+        static void GetAllProducts() {
+            using (var context = new ShopContext()) {
+                var products = context
+                    .Products
+                        .Select(prd => new {
+                            prd.Name,
+                            prd.Price
+                        } )
+                            .ToList();
+
+                foreach (var prd in products) {
+                    System.Console.WriteLine($"name: {prd.Name}\nprice: {prd.Price}");
+                }
+            }
+        }
+        static void GetProductById(int id) {
+            using (var context = new ShopContext()) {
+                var product = context.Products
+                    .Where(prd => prd.Id == id)
+                        .Select(prd => new {
+                            prd.Name,
+                            prd.Price
+                        } )
+                            .FirstOrDefault();
+                if (product != null)
+                    System.Console.WriteLine($"name: {product.Name}\nprice: {product.Price}");
+                else
+                    System.Console.WriteLine("girilen id'de kayıt bulunamadı");
+            }
+        }
+        static void GetProductByName(string name) {
+            using (var context = new ShopContext()) {
+                var products = context.Products
+                    .Where(prd => prd.Name.ToLower().Contains(name.ToLower()))
+                        .Select(prd => new {
+                            prd.Name,
+                            prd.Price
+                        } )
+                            .ToList();
+                foreach (var prd in products) {
+                    System.Console.WriteLine($"name: {prd.Name}\nprice: {prd.Price}");
+                }
             }
         }
     }
