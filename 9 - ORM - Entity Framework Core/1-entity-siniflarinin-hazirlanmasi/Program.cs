@@ -33,7 +33,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         
     public class Program {
         static void Main() {
-            UpdateProduct();
+            DeleteProduct(6);
         }
 
         static void AddProducts() {
@@ -106,24 +106,24 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         }
         static void UpdateProduct() {
                 // ** En Doğrusu Bu - Diğerlerinde Sadece PRİCE Alanını Güncellesek Bile Diğer Alanlarda Güncelleniyor
-            // using (var db = new ShopContext()) {
-            //     var entity = new Product() {Id = 2};
-            //     db.Products.Attach(entity);
-            //     entity.Price = 1200;
-            //     db.SaveChanges();
-            //     System.Console.WriteLine("güncelleme yapıldı");
-            // }
-
             using (var db = new ShopContext()) {
-                var prd = db.Products.Where(prd => prd.Id == 2).FirstOrDefault();
-
-                if (prd != null) {
-                    prd.Price = 2000;
-                    db.Products.Update(prd);
-                    db.SaveChanges();
-                    System.Console.WriteLine("güncellendi");
-                }
+                var entity = new Product() {Id = 2};
+                db.Products.Attach(entity);
+                entity.Price = 1200;
+                db.SaveChanges();
+                System.Console.WriteLine("güncelleme yapıldı");
             }
+
+            // using (var db = new ShopContext()) {
+            //     var prd = db.Products.Where(prd => prd.Id == 2).FirstOrDefault();
+
+            //     if (prd != null) {
+            //         prd.Price = 2000;
+            //         db.Products.Update(prd);
+            //         db.SaveChanges();
+            //         System.Console.WriteLine("güncellendi");
+            //     }
+            // }
 
 
             // using (var db = new ShopContext()) {
@@ -138,6 +138,22 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
             //     }
 
             // }
+        }
+        static void DeleteProduct(int id) {
+            using(var db = new ShopContext()) {
+                var prd = new Product() {Id = id};
+                db.Products.Remove(prd);
+                db.SaveChanges();
+
+                // var prd = db.Products.Where(i => i.Id == id).FirstOrDefault();
+                // if(prd != null) {
+                //     db.Products.Remove(prd);
+                //     db.SaveChanges();
+                //     System.Console.WriteLine("veri silindi");
+                // } else {
+                //     System.Console.WriteLine("silinemedi");
+                // }
+            }
         }
     }
 }

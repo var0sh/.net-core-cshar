@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj": {}
+    "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj": {}
   },
   "projects": {
-    "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj": {
+    "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
+        "projectUniqueName": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
         "projectName": "1-entity-siniflarinin-hazirlanmasi",
-        "projectPath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
+        "projectPath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
         "packagesPath": "C:\\Users\\lenovo-pc\\.nuget\\packages\\",
-        "outputPath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\obj\\",
+        "outputPath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
