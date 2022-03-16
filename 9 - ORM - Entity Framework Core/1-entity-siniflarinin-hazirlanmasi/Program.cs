@@ -10,6 +10,8 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
     public class ShopContext : DbContext {
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Address> Addresses { get; set; }
 
         public static readonly ILoggerFactory MyLoggerFactory = LoggerFactory.Create(builder => { builder.AddConsole(); });
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
@@ -30,130 +32,77 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public string Name { get; set; }
         public decimal Price { get; set; }
     }
-        
+    public class User {
+        public User () {
+            this.Addresses = new List<Address>();
+        }
+        public int Id { get; set; }
+        public string UserName { get; set; }
+        public string Email { get; set; }
+        public List<Address> Addresses { get; set; }
+    }
+    public class Address {
+        public int Id { get; set; }
+        public string FullName { get; set; }
+        public string Title { get; set; }
+        public string Body { get; set; }
+
+        public User User { get; set; }
+        public int UserId { get; set; }
+    }
+
     public class Program {
         static void Main() {
-            DeleteProduct(6);
-        }
 
-        static void AddProducts() {
-            using (var db = new ShopContext()){
-                var products = new List<Product> {
-                    new Product {Name = "Samsung S5", Price = 2000},
-                    new Product {Name = "Samsung S6", Price = 3000},
-                    new Product {Name = "Samsung S7", Price = 4000},
-                    new Product {Name = "Samsung S8", Price = 5000}
-                };
-
-                db.Products.AddRange(products);
-                db.SaveChanges();
-
-                System.Console.WriteLine("veriler eklendi");
-            }
-        }
-        static void AddProduct() {
-            using (var db = new ShopContext()){
-                var product = new Product {Name = "Samsung 10", Price = 8000};
-                db.Products.Add(product);
-                db.SaveChanges();
-
-                System.Console.WriteLine("veriler eklendi");
-            }
-        }
-        static void GetAllProducts() {
-            using (var context = new ShopContext()) {
-                var products = context
-                    .Products
-                        .Select(prd => new {
-                            prd.Name,
-                            prd.Price
-                        } )
-                            .ToList();
-
-                foreach (var prd in products) {
-                    System.Console.WriteLine($"name: {prd.Name}\nprice: {prd.Price}");
-                }
-            }
-        }
-        static void GetProductById(int id) {
-            using (var context = new ShopContext()) {
-                var product = context.Products
-                    .Where(prd => prd.Id == id)
-                        .Select(prd => new {
-                            prd.Name,
-                            prd.Price
-                        } )
-                            .FirstOrDefault();
-                if (product != null)
-                    System.Console.WriteLine($"name: {product.Name}\nprice: {product.Price}");
-                else
-                    System.Console.WriteLine("girilen id'de kayıt bulunamadı");
-            }
-        }
-        static void GetProductByName(string name) {
-            using (var context = new ShopContext()) {
-                var products = context.Products
-                    .Where(prd => prd.Name.ToLower().Contains(name.ToLower()))
-                        .Select(prd => new {
-                            prd.Name,
-                            prd.Price
-                        } )
-                            .ToList();
-                foreach (var prd in products) {
-                    System.Console.WriteLine($"name: {prd.Name}\nprice: {prd.Price}");
-                }
-            }
-        }
-        static void UpdateProduct() {
-                // ** En Doğrusu Bu - Diğerlerinde Sadece PRİCE Alanını Güncellesek Bile Diğer Alanlarda Güncelleniyor
+                //  ** Insert sorgusu ile veri ekleme
+            // InsertUsers();
+            // InsertAddresses();
+ 
+                //  ** Navigation Property'leri kullanarak veri ekleme
             using (var db = new ShopContext()) {
-                var entity = new Product() {Id = 2};
-                db.Products.Attach(entity);
-                entity.Price = 1200;
-                db.SaveChanges();
-                System.Console.WriteLine("güncelleme yapıldı");
-            }
+                var user = db.Users.FirstOrDefault(i => i.UserName == "Taha Akçatepe");
 
-            // using (var db = new ShopContext()) {
-            //     var prd = db.Products.Where(prd => prd.Id == 2).FirstOrDefault();
-
-            //     if (prd != null) {
-            //         prd.Price = 2000;
-            //         db.Products.Update(prd);
-            //         db.SaveChanges();
-            //         System.Console.WriteLine("güncellendi");
-            //     }
-            // }
-
-
-            // using (var db = new ShopContext()) {
-            //     var p = db.Products.AsNoTracking().Where(i => i.Id == 2).FirstOrDefault();
-
-            //     if (p != null) {
-            //         p.Price *= 1.2m;
-            //         db.SaveChanges();
-            //         System.Console.WriteLine("güncelleme yapıldı");
-            //     } else {
-            //         System.Console.WriteLine("güncelleme yapılamadı");
-            //     }
-
-            // }
-        }
-        static void DeleteProduct(int id) {
-            using(var db = new ShopContext()) {
-                var prd = new Product() {Id = id};
-                db.Products.Remove(prd);
-                db.SaveChanges();
-
-                // var prd = db.Products.Where(i => i.Id == id).FirstOrDefault();
-                // if(prd != null) {
-                //     db.Products.Remove(prd);
-                //     db.SaveChanges();
-                //     System.Console.WriteLine("veri silindi");
-                // } else {
-                //     System.Console.WriteLine("silinemedi");
-                // }
+                if (user != null) {
+                    user.Addresses.AddRange(
+                        new List<Address>() { 
+                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 4", Body = "Eskişehir"},
+                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 5", Body = "Eskişehir"},
+                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 6", Body = "Eskişehir"},
+                        }
+                    );
+                    db.SaveChanges();
+                }    
             }
         }
+
+        static void InsertUsers() {
+            var users = new List<User>() {
+                new User() { UserName ="Furkan Akçatepe", Email ="abc@gmail.com" },
+                new User() { UserName = "Taha Akçatepe", Email = "def@gmail.com" },
+                new User() { UserName = "Ayşe Akçatepe", Email = "ghi@gmail.com" },
+                new User() { UserName = "Halil Akçatepe", Email = "jkl@gmail.com" }
+            };
+
+            using (var db = new ShopContext()) {
+                db.Users.AddRange(users);
+                db.SaveChanges();
+            }
+        }
+        static void InsertAddresses() {
+            var addresses = new List<Address>() {
+                new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
+                new Address() { FullName = "Ayşe Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 3 },
+                new Address() { FullName = "Halil Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 4 },
+                new Address() { FullName = "Taha Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 2 },
+                new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
+                new Address() { FullName = "Ayşe Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 3 }
+            };
+
+            using (var db = new ShopContext()) {
+                db.Addresses.AddRange(addresses);
+                db.SaveChanges();
+            }
+        }
+
     }
 }

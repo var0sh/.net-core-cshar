@@ -10,8 +10,8 @@ using _1_entity_siniflarinin_hazirlanmasi;
 namespace _1_entity_siniflarinin_hazirlanmasi.Migrations
 {
     [DbContext(typeof(ShopContext))]
-    [Migration("20220310181305_mig_1")]
-    partial class mig_1
+    [Migration("20220316163323_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

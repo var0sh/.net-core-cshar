@@ -4,7 +4,7 @@
 
 namespace _1_entity_siniflarinin_hazirlanmasi.Migrations
 {
-    public partial class mig_1 : Migration
+    public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
