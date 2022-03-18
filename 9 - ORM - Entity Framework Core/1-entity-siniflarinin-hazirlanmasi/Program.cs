@@ -12,6 +12,8 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public DbSet<Category> Categories { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Address> Addresses { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
 
         public static readonly ILoggerFactory MyLoggerFactory = LoggerFactory.Create(builder => { builder.AddConsole(); });
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
@@ -40,6 +42,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public string UserName { get; set; }
         public string Email { get; set; }
         public List<Address> Addresses { get; set; }
+        public Customer Customer { get; set; }
     }
     public class Address {
         public int Id { get; set; }
@@ -50,59 +53,102 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public User User { get; set; }
         public int UserId { get; set; }
     }
+    public class Customer {
+        public int Id { get; set; }
+        public string IdentityNumber { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public User User { get; set; }
+
+        public int UserId { get; set; }
+    }
+    public class Supplier {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string TaxNumber { get; set; }
+    }
 
     public class Program {
         static void Main() {
+            // *** One To Many Relation
+                    //  ** Insert sorgusu ile veri ekleme
+                // InsertUsers();
+                // InsertAddresses();
+    
+                    //  ** Navigation Property'leri kullanarak veri ekleme
+            //     using (var db = new ShopContext()) {
+            //         var user = db.Users.FirstOrDefault(i => i.UserName == "Taha Akçatepe");
 
-                //  ** Insert sorgusu ile veri ekleme
-            // InsertUsers();
-            // InsertAddresses();
- 
-                //  ** Navigation Property'leri kullanarak veri ekleme
+            //         if (user != null) {
+            //             user.Addresses.AddRange(
+            //                 new List<Address>() { 
+            //                     new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 4", Body = "Eskişehir"},
+            //                     new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 5", Body = "Eskişehir"},
+            //                     new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 6", Body = "Eskişehir"},
+            //                 }
+            //             );
+            //             db.SaveChanges();
+            //         }    
+            //     }
+            // }
+            // static void InsertUsers() {
+            //     var users = new List<User>() {
+            //         new User() { UserName ="Furkan Akçatepe", Email ="abc@gmail.com" },
+            //         new User() { UserName = "Taha Akçatepe", Email = "def@gmail.com" },
+            //         new User() { UserName = "Ayşe Akçatepe", Email = "ghi@gmail.com" },
+            //         new User() { UserName = "Halil Akçatepe", Email = "jkl@gmail.com" }
+            //     };
+
+            //     using (var db = new ShopContext()) {
+            //         db.Users.AddRange(users);
+            //         db.SaveChanges();
+            //     }
+            // }
+            // static void InsertAddresses() {
+            //     var addresses = new List<Address>() {
+            //         new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
+            //         new Address() { FullName = "Ayşe Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 3 },
+            //         new Address() { FullName = "Halil Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 4 },
+            //         new Address() { FullName = "Taha Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 2 },
+            //         new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
+            //         new Address() { FullName = "Ayşe Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 3 }
+            //     };
+
+            //     using (var db = new ShopContext()) {
+            //         db.Addresses.AddRange(addresses);
+            //         db.SaveChanges();
+            //     }
+            // }
+            // ***
+
+            // *** One To One Relation
             using (var db = new ShopContext()) {
-                var user = db.Users.FirstOrDefault(i => i.UserName == "Taha Akçatepe");
+            // var customer = new Customer() {IdentityNumber = "124123125", FirstName = "Taha", LastName = "Akçatepe", UserId = 2};
+            // db.Customers.Add(customer);
+            // db.SaveChanges();
 
-                if (user != null) {
-                    user.Addresses.AddRange(
-                        new List<Address>() { 
-                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 4", Body = "Eskişehir"},
-                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 5", Body = "Eskişehir"},
-                            new Address() {FullName = "Taha Akçatepe", Title = "iş adresi 6", Body = "Eskişehir"},
-                        }
-                    );
-                    db.SaveChanges();
-                }    
-            }
-        }
+            // var customer = new Customer() {
+                // IdentityNumber = "124123125", 
+                // FirstName = "Taha", 
+                // LastName = "Akçatepe",
+                // User = db.Users.FirstOrDefault(i => i.Id == 3)
+            // };
+            // db.Customers.Add(customer);
+            // db.SaveChanges();
 
-        static void InsertUsers() {
-            var users = new List<User>() {
-                new User() { UserName ="Furkan Akçatepe", Email ="abc@gmail.com" },
-                new User() { UserName = "Taha Akçatepe", Email = "def@gmail.com" },
-                new User() { UserName = "Ayşe Akçatepe", Email = "ghi@gmail.com" },
-                new User() { UserName = "Halil Akçatepe", Email = "jkl@gmail.com" }
-            };
-
-            using (var db = new ShopContext()) {
-                db.Users.AddRange(users);
+                var user = new User() {
+                    UserName = "deneme",
+                    Email = "deneme@gmail.com",
+                    Customer = new Customer() {
+                        FirstName = "Deneme",
+                        LastName = "DENEME",
+                        IdentityNumber = "34695345"
+                    }
+                };
+                db.Users.Add(user);
                 db.SaveChanges();
             }
+            // ***
         }
-        static void InsertAddresses() {
-            var addresses = new List<Address>() {
-                new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
-                new Address() { FullName = "Ayşe Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 3 },
-                new Address() { FullName = "Halil Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 4 },
-                new Address() { FullName = "Taha Akçatepe", Title = "İş adresi", Body = "Eskişehir", UserId = 2 },
-                new Address() { FullName = "Furkan Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 1 },
-                new Address() { FullName = "Ayşe Akçatepe", Title = "Ev adresi", Body = "Eskişehir", UserId = 3 }
-            };
-
-            using (var db = new ShopContext()) {
-                db.Addresses.AddRange(addresses);
-                db.SaveChanges();
-            }
-        }
-
     }
 }

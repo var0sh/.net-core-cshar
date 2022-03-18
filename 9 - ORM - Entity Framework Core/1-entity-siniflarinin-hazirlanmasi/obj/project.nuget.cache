@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABtc5V6sQ+2PUplNVO4I2IdUh7GC4+q0GIg3rd1g0jXXnLr1QrQG3QUBqtneVSUjMODW5rcqYxgcISQlI4FrXQ==",
+  "dgSpecHash": "5tYw9uQbXaBIYww2O4CAw9T6fbd0L8r411eN2ZfOf7bIgEphJ5vh/UhUiHvg+nmbRnq//JbguOTPFVFJuBbO2A==",
   "success": true,
-  "projectFilePath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
+  "projectFilePath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\1-entity-siniflarinin-hazirlanmasi\\1-entity-siniflarinin-hazirlanmasi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo-pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo-pc\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
