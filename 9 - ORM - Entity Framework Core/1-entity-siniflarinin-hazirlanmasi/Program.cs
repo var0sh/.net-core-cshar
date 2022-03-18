@@ -20,19 +20,41 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         optionsBuilder
             .UseLoggerFactory(MyLoggerFactory)
                 .UseSqlite("Data Source=shop.db");
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder) {
+            modelBuilder.Entity<ProductCategory>()
+                .HasKey(t => new {t.ProductId, t.CategoryId});
+
+            modelBuilder.Entity<ProductCategory>()
+                .HasOne(pc => pc.Product)
+                .WithMany(p => p.ProductCategories)
+                .HasForeignKey(pc => pc.ProductId);
+
+            modelBuilder.Entity<ProductCategory>()
+                .HasOne(pc => pc.Category)
+                .WithMany(c => c.ProductCategories)
+                .HasForeignKey(pc => pc.CategoryId);
+        }
     }
-}
     public class Category {
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public List<ProductCategory> ProductCategories { get; set; }
     }
     public class Product {
         // primary key (Id, ProductId)
         public int Id { get; set; }
-        [MaxLength(100)]
-        [Required]
         public string Name { get; set; }
-        public decimal Price { get; set; }
+        public decimal Price { get; set; }        
+        public List<ProductCategory> ProductCategories { get; set; }
+    }
+    public class ProductCategory {
+        public int ProductId { get; set; }
+        public Product Product { get; set; }
+
+        public int CategoryId { get; set; }
+        public Category Category { get; set; }
     }
     public class User {
         public User () {
@@ -122,7 +144,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
             // ***
 
             // *** One To One Relation
-            using (var db = new ShopContext()) {
+            // using (var db = new ShopContext()) {
             // var customer = new Customer() {IdentityNumber = "124123125", FirstName = "Taha", LastName = "Akçatepe", UserId = 2};
             // db.Customers.Add(customer);
             // db.SaveChanges();
@@ -136,16 +158,44 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
             // db.Customers.Add(customer);
             // db.SaveChanges();
 
-                var user = new User() {
-                    UserName = "deneme",
-                    Email = "deneme@gmail.com",
-                    Customer = new Customer() {
-                        FirstName = "Deneme",
-                        LastName = "DENEME",
-                        IdentityNumber = "34695345"
-                    }
+            //     var user = new User() {
+            //         UserName = "deneme",
+            //         Email = "deneme@gmail.com",
+            //         Customer = new Customer() {
+            //             FirstName = "Deneme",
+            //             LastName = "DENEME",
+            //             IdentityNumber = "34695345"
+            //         }
+            //     };
+            //     db.Users.Add(user);
+            //     db.SaveChanges();
+            // }
+            // ***
+
+            // *** ManyToManyRelation
+            using (var db = new ShopContext()) {
+                var products = new List<Product>() {
+                    new Product() {Name = "Phone 1", Price = 1000},
+                    new Product() {Name = "Phone 2", Price = 2000},
+                    new Product() {Name = "Phone 3", Price = 3000},
+                    new Product() {Name = "Phone 4", Price = 4000},
                 };
-                db.Users.Add(user);
+                var categories = new List<Category>() {
+                    new Category() {Name = "Telefon"},
+                    new Category() {Name = "Elektronik"},
+                    new Category() {Name = "Bilgisayar"},
+                };
+
+                int[] ids = new int[2] {1, 2};
+                var p = db.Products.Find(1);
+                p.ProductCategories = ids.Select(categoryId => new ProductCategory() {
+                    CategoryId = categoryId,
+                    ProductId = p.Id
+                }).ToList();
+
+                // db.Products.AddRange(products);
+                // db.Categories.AddRange(categories);
+
                 db.SaveChanges();
             }
             // ***
