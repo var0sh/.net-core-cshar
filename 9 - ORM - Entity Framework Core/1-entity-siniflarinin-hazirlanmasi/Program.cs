@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using System.ComponentModel.DataAnnotations.Schema;
+using static _1_entity_siniflarinin_hazirlanmasi.ShopContext;
 
 namespace _1_entity_siniflarinin_hazirlanmasi {
     public class ShopContext : DbContext {
@@ -21,7 +23,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
             .UseLoggerFactory(MyLoggerFactory)
                 .UseSqlite("Data Source=shop.db");
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder) {
+        protected override void OnModelCreating(ModelBuilder modelBuilder) { // -> Fluent API
             modelBuilder.Entity<ProductCategory>()
                 .HasKey(t => new {t.ProductId, t.CategoryId});
 
@@ -34,7 +36,43 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
                 .HasOne(pc => pc.Category)
                 .WithMany(c => c.ProductCategories)
                 .HasForeignKey(pc => pc.CategoryId);
+
+            // modelBuilder.Entity<ProductCategory>()
+            //     .ToTable("UrunKategorileri"); //  Veri tabanın da bu tablonun isminin berlittiğimiz şekil de görünmesini sağlar
+
+            // modelBuilder.Entity<User>()
+            //     .HasIndex(u => u.UserName)
+            //     .IsUnique();
         }
+        public static class DataSeeding {
+            public static void Seed(DbContext context) {
+                if (context.Database.GetPendingMigrations().Count() == 0) {
+                    if (context is ShopContext) {
+                        ShopContext _context = context as ShopContext;
+
+                        if (_context.Products.Count() == 0) {
+                            _context.Products.AddRange(Products);
+                        }
+
+                        if (_context.Categories.Count() == 0) {
+                            _context.Categories.AddRange(Categories);
+                        }
+                    }
+                context.SaveChanges();
+                }
+            }
+        private static Product[] Products = {
+            new Product() { Name = "Phone 1", Price = 1000 },
+            new Product() { Name = "Phone 2", Price = 2000 },
+            new Product() { Name = "Phone 3", Price = 3000 },
+            new Product() { Name = "Phone 4", Price = 4000 },
+        };
+        private static Category[] Categories = {
+            new Category() { Name = "Telefon" },
+            new Category() { Name = "Elektronik" },
+            new Category() { Name = "Bilgisayar" },
+        };
+    }
     }
     public class Category {
         public int Id { get; set; }
@@ -43,12 +81,21 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public List<ProductCategory> ProductCategories { get; set; }
     }
     public class Product {
-        // primary key (Id, ProductId)
+        // [DatabaseGenerated(DatabaseGeneratedOption.None)] // -> PrimaryKey'in otomatik artmamasını belirtiyoruz
         public int Id { get; set; }
         public string Name { get; set; }
-        public decimal Price { get; set; }        
+        public decimal Price { get; set; }
+
+        // [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Identity -> EF Core bir kereliğine değer üretir fakat artarak gitmez. 
+        // public DateTime InsertedDate { get; set; } = DateTime.Now;
+
+        // [DatabaseGenerated(DatabaseGeneratedOption.Computed)] // 
+        // public DateTime LastUpdatedDate { get; set; } = DateTime.Now;
         public List<ProductCategory> ProductCategories { get; set; }
     }
+    
+    [NotMapped] // -> DATA ANNOTATION - ProductCategory tablosunun veri tabanına eklenmemesini sağlar
+    [Table("UrunKategorileri")] // -> DATA ANNOTATION - Veri tabanın da bu tablonun isminin berlittiğimiz şekil de görünmesini sağlar
     public class ProductCategory {
         public int ProductId { get; set; }
         public Product Product { get; set; }
@@ -80,6 +127,9 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
         public string IdentityNumber { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        
+        [NotMapped]
+        public string FullName { get; set; }
         public User User { get; set; }
 
         public int UserId { get; set; }
@@ -173,31 +223,35 @@ namespace _1_entity_siniflarinin_hazirlanmasi {
             // ***
 
             // *** ManyToManyRelation
-            using (var db = new ShopContext()) {
-                var products = new List<Product>() {
-                    new Product() {Name = "Phone 1", Price = 1000},
-                    new Product() {Name = "Phone 2", Price = 2000},
-                    new Product() {Name = "Phone 3", Price = 3000},
-                    new Product() {Name = "Phone 4", Price = 4000},
-                };
-                var categories = new List<Category>() {
-                    new Category() {Name = "Telefon"},
-                    new Category() {Name = "Elektronik"},
-                    new Category() {Name = "Bilgisayar"},
-                };
+            // using (var db = new ShopContext()) {
+            //     var products = new List<Product>() {
+            //         new Product() {Name = "Phone 1", Price = 1000},
+            //         new Product() {Name = "Phone 2", Price = 2000},
+            //         new Product() {Name = "Phone 3", Price = 3000},
+            //         new Product() {Name = "Phone 4", Price = 4000},
+            //     };
+            //     var categories = new List<Category>() {
+            //         new Category() {Name = "Telefon"},
+            //         new Category() {Name = "Elektronik"},
+            //         new Category() {Name = "Bilgisayar"},
+            //     };
 
-                int[] ids = new int[2] {1, 2};
-                var p = db.Products.Find(1);
-                p.ProductCategories = ids.Select(categoryId => new ProductCategory() {
-                    CategoryId = categoryId,
-                    ProductId = p.Id
-                }).ToList();
+            //     int[] ids = new int[2] {1, 2};
+            //     var p = db.Products.Find(1);
+            //     p.ProductCategories = ids.Select(categoryId => new ProductCategory() {
+            //         CategoryId = categoryId,
+            //         ProductId = p.Id
+            //     }).ToList();
 
-                // db.Products.AddRange(products);
-                // db.Categories.AddRange(categories);
+            //     db.Products.AddRange(products);
+            //     db.Categories.AddRange(categories);
 
-                db.SaveChanges();
-            }
+            //     db.SaveChanges();
+            // }
+            // ***
+
+            // *** DataSeeding
+            DataSeeding.Seed(new ShopContext());
             // ***
         }
     }

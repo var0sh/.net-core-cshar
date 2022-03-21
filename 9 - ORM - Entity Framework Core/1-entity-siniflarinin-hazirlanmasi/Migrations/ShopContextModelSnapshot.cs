@@ -118,7 +118,7 @@ namespace _1_entity_siniflarinin_hazirlanmasi.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("ProductCategory");
+                    b.ToTable("UrunKategorileri");
                 });
 
             modelBuilder.Entity("_1_entity_siniflarinin_hazirlanmasi.Supplier", b =>
