@@ -53,143 +53,166 @@ namespace _1_entity_siniflarinin_hazirlanmasi
         {
             static void Main()
             {
-                using (var db = new NorthwindContext())
+                // using (var db = new NorthwindContext())
+                // {
+                // *** Tüm müşteri kayıtlarını getiriniz
+                // var customers = db.Customers.ToList();
+                // foreach (var customer in customers) {
+                //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
+                // }
+
+                // *** Tüm müşteri kayıtlarının sadece firstname ve lastname bilgilerini getiriniz
+                // var customers = db.Customers.Select(c => new {
+                //     c.FirstName,
+                //     c.LastName
+                // });
+                // foreach (var customer in customers) {
+                //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
+                // }
+
+                // *** New York'da yaşayan müşterileri isim sırasına göre getiriniz
+                // var customers = db.Customers
+                //     .Where(i => i.City == "New York")
+                //     .Select(p => new {
+                //         p.FirstName,
+                //         p.LastName  
+                //     })
+                //     .ToList();
+                // foreach (var customer in customers) {
+                //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
+                // }
+
+                // *** "Beverages" kategorisine ait ürünlerin isimlerini getiriniz
+                // var productNames = db.Products
+                //     .Where(p => p.Category == "Beverages")
+                //     .Select(p => p.ProductName)
+                //     .ToList();
+                // foreach (var name in productNames) {
+                //     System.Console.WriteLine(name);
+                // } 
+
+                // *** En son eklenen 5 ürün bilgisini alınız
+                // var products = db.Products
+                //     .OrderByDescending(p => p.Id)
+                //     .Select(p => p.ProductName)
+                //     .Take(5);
+                // foreach (var prd in products) {
+                //     System.Console.WriteLine(prd);
+                // }
+
+                // *** Fiyatı 10-30 arasında olan ürünlerin isim ve fiyat bilgilerini alınız
+                // var products = db.Products
+                //     .Where(p => p.ListPrice >= 10 && p.ListPrice <= 30)
+                //     .Select(p => new {
+                //         p.ListPrice,
+                //         p.ProductName
+                //     })
+                //     .ToList();
+                // foreach (var prd in products) {
+                //     System.Console.WriteLine($"name: {prd.ProductName} - price: {prd.ListPrice}");
+                // }
+
+                // *** "Beverages" kategorisinde ki ürünlerin ortalama fiyatı nedir
+                // var ortalama = db.Products
+                //     .Where(p => p.Category == "Beverages")
+                //     .Select(p => p.ListPrice)
+                //     .Average(p => p);
+                // System.Console.WriteLine(ortalama); 
+
+                // *** "Beverages" kategorisinde kaç ürün vardır
+                // var adet = db.Products
+                //     .Where(p => p.Category == "Beverages")
+                //     .Select(p => p.Id)
+                //     .Count();
+                // System.Console.WriteLine(adet);
+
+                // *** "Beverages" ve "Condiments" kategorilerinde ki ürünlerin toplam fiyatı nedir
+                // var toplam = db.Products
+                //     .Where(p => p.Category == "Beverages" || p.Category == "Condiments")
+                //     .Select(p => p.ListPrice)
+                //     .Sum(p => p);
+                // System.Console.WriteLine(toplam);
+
+                // *** "Tea" kelimesini içeren ürünleri getiriniz
+                // var products = db.Products
+                //     .Where(p => p.ProductName.Contains("Tea"))
+                //     .Select(p => p.ProductName);
+                // foreach (var product in products) {
+                //     System.Console.WriteLine(product);
+                // }
+
+                // *** En pahalı ve en ucuz ürün hangisidir
+                // var minPrice = db.Products.Min(p => p.ListPrice);
+                // var maxPrice = db.Products.Max(p => p.ListPrice);
+                // System.Console.WriteLine($"min: {minPrice} - max: {maxPrice}");
+
+                // var minProduct = db.Products
+                //     .Where(p => p.ListPrice == (db.Products.Min(e => e.ListPrice)))
+                //     .FirstOrDefault();
+                // System.Console.WriteLine($"name: {minProduct.ProductName} - price: {minProduct.ListPrice}");
+
+                // var maxProdduct = db.Products
+                //     .Where(p => p.ListPrice == (db.Products.Max(e => e.ListPrice)))
+                //     .FirstOrDefault();
+                // System.Console.WriteLine($"name: {maxProdduct.ProductName} - price: {maxProdduct.ListPrice}");
+
+                // }
+                // using (var db = new NorthwindContext())
+                // {
+                //     var customers = db.Customers
+                //         .Where(p => p.Orders.Count() > 0)
+                //         .Select(p => new CustomerDemo()
+                //         {
+                //             Id = p.Id,
+                //             Name = p.FirstName,
+                //             OrderCount = p.Orders.Count(),
+                //             Orders = p.Orders.Select(e => new OrderDemo()
+                //             {
+                //                 Id = e.Id,
+                //                 Total = (decimal)e.OrderDetails.Sum(od => od.Quantity * od.UnitPrice),
+                //                 Products = e.OrderDetails.Select(p => new ProductDemo()
+                //                 {
+                //                     Id = (int)p.Id,
+                //                     Name = p.Product.ProductName
+                //                 }).ToList()
+                //             }).ToList()
+                //         })
+                //         .OrderBy(p => p.Id)
+                //         .ToList();
+                //     foreach (var customer in customers)
+                //     {
+                //         System.Console.WriteLine($"id: {customer.Id} - name: {customer.Name} - count: {customer.OrderCount}");
+                //         foreach (var order in customer.Orders)
+                //         {
+                //             System.Console.WriteLine($"order id: {order.Id} - total: {order.Total}");
+                //             foreach (var product in order.Products)
+                //             {
+                //                 System.Console.WriteLine($"product id: {product.Id} - name: {product.Name}");
+                //             }
+                //         }
+                //     }
+                // }
+
+                // using (var db = new NorthwindContext())
+                // {
+                //     var city = "Miami";
+                //     var customer = db.Customers
+                //         .FromSqlRaw($"select * from customers where city = '{city}'")
+                //         .ToList();
+                //     foreach (var item in customer)
+                //     {
+                //         System.Console.WriteLine(item);
+                //     }
+                // }
+
+                using (var db = new CustomNorthwindContext())
                 {
-                    // *** Tüm müşteri kayıtlarını getiriniz
-                    // var customers = db.Customers.ToList();
-                    // foreach (var customer in customers) {
-                    //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
-                    // }
-
-                    // *** Tüm müşteri kayıtlarının sadece firstname ve lastname bilgilerini getiriniz
-                    // var customers = db.Customers.Select(c => new {
-                    //     c.FirstName,
-                    //     c.LastName
-                    // });
-                    // foreach (var customer in customers) {
-                    //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
-                    // }
-
-                    // *** New York'da yaşayan müşterileri isim sırasına göre getiriniz
-                    // var customers = db.Customers
-                    //     .Where(i => i.City == "New York")
-                    //     .Select(p => new {
-                    //         p.FirstName,
-                    //         p.LastName  
-                    //     })
-                    //     .ToList();
-                    // foreach (var customer in customers) {
-                    //     System.Console.WriteLine(customer.FirstName + " " + customer.LastName);
-                    // }
-
-                    // *** "Beverages" kategorisine ait ürünlerin isimlerini getiriniz
-                    // var productNames = db.Products
-                    //     .Where(p => p.Category == "Beverages")
-                    //     .Select(p => p.ProductName)
-                    //     .ToList();
-                    // foreach (var name in productNames) {
-                    //     System.Console.WriteLine(name);
-                    // } 
-
-                    // *** En son eklenen 5 ürün bilgisini alınız
-                    // var products = db.Products
-                    //     .OrderByDescending(p => p.Id)
-                    //     .Select(p => p.ProductName)
-                    //     .Take(5);
-                    // foreach (var prd in products) {
-                    //     System.Console.WriteLine(prd);
-                    // }
-
-                    // *** Fiyatı 10-30 arasında olan ürünlerin isim ve fiyat bilgilerini alınız
-                    // var products = db.Products
-                    //     .Where(p => p.ListPrice >= 10 && p.ListPrice <= 30)
-                    //     .Select(p => new {
-                    //         p.ListPrice,
-                    //         p.ProductName
-                    //     })
-                    //     .ToList();
-                    // foreach (var prd in products) {
-                    //     System.Console.WriteLine($"name: {prd.ProductName} - price: {prd.ListPrice}");
-                    // }
-
-                    // *** "Beverages" kategorisinde ki ürünlerin ortalama fiyatı nedir
-                    // var ortalama = db.Products
-                    //     .Where(p => p.Category == "Beverages")
-                    //     .Select(p => p.ListPrice)
-                    //     .Average(p => p);
-                    // System.Console.WriteLine(ortalama); 
-
-                    // *** "Beverages" kategorisinde kaç ürün vardır
-                    // var adet = db.Products
-                    //     .Where(p => p.Category == "Beverages")
-                    //     .Select(p => p.Id)
-                    //     .Count();
-                    // System.Console.WriteLine(adet);
-
-                    // *** "Beverages" ve "Condiments" kategorilerinde ki ürünlerin toplam fiyatı nedir
-                    // var toplam = db.Products
-                    //     .Where(p => p.Category == "Beverages" || p.Category == "Condiments")
-                    //     .Select(p => p.ListPrice)
-                    //     .Sum(p => p);
-                    // System.Console.WriteLine(toplam);
-
-                    // *** "Tea" kelimesini içeren ürünleri getiriniz
-                    // var products = db.Products
-                    //     .Where(p => p.ProductName.Contains("Tea"))
-                    //     .Select(p => p.ProductName);
-                    // foreach (var product in products) {
-                    //     System.Console.WriteLine(product);
-                    // }
-
-                    // *** En pahalı ve en ucuz ürün hangisidir
-                    // var minPrice = db.Products.Min(p => p.ListPrice);
-                    // var maxPrice = db.Products.Max(p => p.ListPrice);
-                    // System.Console.WriteLine($"min: {minPrice} - max: {maxPrice}");
-
-                    // var minProduct = db.Products
-                    //     .Where(p => p.ListPrice == (db.Products.Min(e => e.ListPrice)))
-                    //     .FirstOrDefault();
-                    // System.Console.WriteLine($"name: {minProduct.ProductName} - price: {minProduct.ListPrice}");
-
-                    // var maxProdduct = db.Products
-                    //     .Where(p => p.ListPrice == (db.Products.Max(e => e.ListPrice)))
-                    //     .FirstOrDefault();
-                    // System.Console.WriteLine($"name: {maxProdduct.ProductName} - price: {maxProdduct.ListPrice}");
-
-                }
-                using (var db = new NorthwindContext())
-                {
-                    var customers = db.Customers
-                        .Where(p => p.Orders.Count() > 0)
-                        .Select(p => new CustomerDemo()
-                        {
-                            Id = p.Id,
-                            Name = p.FirstName,
-                            OrderCount = p.Orders.Count(),
-                            Orders = p.Orders.Select(e => new OrderDemo()
-                            {
-                                Id = e.Id,
-                                Total = (decimal)e.OrderDetails.Sum(od => od.Quantity * od.UnitPrice),
-                                Products = e.OrderDetails.Select(p => new ProductDemo()
-                                {
-                                    Id = (int)p.Id,
-                                    Name = p.Product.ProductName
-                                }).ToList()
-                            }).ToList()
-                        })
-                        .OrderBy(p => p.Id)
+                    var customers = db.CustomerOrders
+                        .FromSqlRaw("select c.id, c.first_name, count(*) as count from customers c inner join orders o on c.id = o.customer_id group by c.id")
                         .ToList();
-                    foreach (var customer in customers)
+                    foreach (var item in customers)
                     {
-                        System.Console.WriteLine($"id: {customer.Id} - name: {customer.Name} - count: {customer.OrderCount}");
-                        foreach (var order in customer.Orders)
-                        {
-                            System.Console.WriteLine($"order id: {order.Id} - total: {order.Total}");
-                            foreach (var product in order.Products)
-                            {
-                                System.Console.WriteLine($"product id: {product.Id} - name: {product.Name}");
-                            }
-                        }
+                        System.Console.WriteLine($"customer id: {item.CustomerId} - firstname: {item.FirstName} - order count: {item.OrderCount}");
                     }
                 }
             }
