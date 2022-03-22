@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5kLs62Fb4U9OFUBN97CvWeo40fbIsLd5sdrHzDe7Br0vq2B8B0MsBejxx2Ks3JWAVB/BV6gsP7vqdTVG/VEI/w==",
+  "dgSpecHash": "XtNcz1AoI8YaSJxplO1rl77Nq9JhVN4B7EMPCgudrKQY2NmfQwHQPYwGF0MS4nRFv2h5w3Ph6sEH855OCyVIsA==",
   "success": true,
-  "projectFilePath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
+  "projectFilePath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo-pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo-pc\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

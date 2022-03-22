@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj": {}
+    "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj": {}
   },
   "projects": {
-    "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj": {
+    "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
+        "projectUniqueName": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
         "projectName": "2-scaffolding-database-and-linq-query",
-        "projectPath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
+        "projectPath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\2-scaffolding-database-and-linq-query.csproj",
         "packagesPath": "C:\\Users\\lenovo-pc\\.nuget\\packages\\",
-        "outputPath": "A:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\obj\\",
+        "outputPath": "a:\\HTML 2\\website\\.Net Core - C#\\9 - ORM - Entity Framework Core\\2-scaffolding-database-and-linq-query\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
